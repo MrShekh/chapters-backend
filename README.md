@@ -34,7 +34,7 @@ chapterdashboardapi/
 └── README.md
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/chapterdashboardapi.git
+git clone https://github.com/MrShekh/chapters-backend.git
 cd chapterdashboardapi
 2. Install Dependencies
 npm install
